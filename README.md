@@ -17,11 +17,10 @@ This repository contains Java lab programs from **CSE1018 - Object Oriented Prog
 - *Head First Java* – Kathy Sierra & Bert Bates  
 
 ---
-## How to Run
+
+## 🚀 How to Run
 ```bash
 javac FileName.java
 java FileName
----```
 
 Happy Coding 🎉
-
