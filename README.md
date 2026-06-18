@@ -24,4 +24,4 @@ javac FileName.java
 java FileName
 ```
 ---
-## Happy Coding 🎉
+**Happy Coding 🎉**
