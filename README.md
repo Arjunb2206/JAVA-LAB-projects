@@ -21,7 +21,7 @@ This repository contains Java lab programs from **CSE1018 - Object Oriented Prog
 ```bash
 javac FileName.java
 java FileName
----
+---```
 
 Happy Coding 🎉
 
